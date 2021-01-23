@@ -1,10 +1,10 @@
 ### Hola! 👋
 
 Me llamo _Víctor_ y en diciembre de 2020 he terminado el grado superior de desarrollo de aplicaciones web (DAW).
-Para seguir formándome en enero de 2021 acabo de empezar el bootcamp fullstack developer de - <a><img height="25" src="https://geekshubs.com/wp-content/uploads/2019/02/logo-300ppp.png"> [](https://geekshubs.com/)</a>
+Para seguir formándome en enero de 2021 acabo de empezar el *bootcamp fullstack developer* de - <a><img src="https://geekshubs.com/wp-content/uploads/2019/02/logo-300ppp.png"> [Geekshubs](https://geekshubs.com/)</a>
 Serán meses duros pero esperemos que merezca la pena.
 
-<img align= "left" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 - 🎓 Learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -13,6 +13,7 @@ Serán meses duros pero esperemos que merezca la pena.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 :star: [vicGeo](https://github.com/vicGeo) 💻
+
 
 <!--
 **vicGeo/vicGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
