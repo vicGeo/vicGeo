@@ -4,7 +4,8 @@ Me llamo _Víctor_ y en diciembre de 2020 he terminado el grado superior de desa
 Para seguir formándome en enero de 2021 acabo de empezar el **Bootcamp Fullstack Developer** de <a>[Geekshubs](https://geekshubs.com/)</a>
 Serán meses duros pero esperemos que merezcan la pena.
 
-<img align= "right" width= "250" src= "https://media3.giphy.com/media/dbtDDSvWErdf2/giphy.gif"/>
+<img align= "center" width= "250" src= "https://media3.giphy.com/media/dbtDDSvWErdf2/giphy.gif"/>
+
 
 - 🎓 Learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
