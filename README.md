@@ -1,10 +1,10 @@
 ### Hola! 👋
 
 Me llamo _Víctor_ y en diciembre de 2020 he terminado el grado superior de desarrollo de aplicaciones web (DAW).
-Para seguir formándome en enero de 2021 acabo de empezar el **bootcamp fullstack developer** de - <a>[Geekshubs](https://geekshubs.com/)</a>
+Para seguir formándome en enero de 2021 acabo de empezar el **Bootcamp Fullstack Developer** de <a>[Geekshubs](https://geekshubs.com/)</a>
 Serán meses duros pero esperemos que merezcan la pena.
 
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "right" width= "250" src= "https://media3.giphy.com/media/dbtDDSvWErdf2/giphy.gif"/>
 
 - 🎓 Learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
