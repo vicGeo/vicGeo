@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-Me llamo _Víctor_ y en diciembre de 2020 he terminado el grado superior de desarrollo de aplicaciones web (**DAW**).
+Me llamo _Víctor_ y en diciembre de 2020 terminé el grado superior de desarrollo de aplicaciones web (**DAW**).
 Para seguir formándome en enero de 2021 acabo de empezar el **Bootcamp Fullstack Developer** de <a>[Geekshubs](https://geekshubs.com/)</a>.
 Serán meses duros pero esperemos que merezcan la pena! Un saludo.
 
